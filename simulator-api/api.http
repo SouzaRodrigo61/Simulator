@@ -1,0 +1,7 @@
+### Get all
+GET http://localhost:3000/routes
+
+### Get one route by id and start router using kafka
+GET http://localhost:3000/routes/3/start
+
+###
